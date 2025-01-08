@@ -15,7 +15,9 @@ A simple and visually appealing vertical slider built with HTML, CSS, and JavaSc
 🛠️ **Technologies Used** :
 
 **HTML5**: For structuring the slider content.
+
 **CSS3**: For styling and animations.
+
 **JavaScript**: For dynamic interactions and transitions.
 
 ---
