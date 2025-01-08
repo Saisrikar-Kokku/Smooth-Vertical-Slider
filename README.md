@@ -79,7 +79,8 @@ Improving responsiveness and interactivity using CSS transitions and JavaScript 
 
 ---
 
-🧑‍💻 **Future Enhancements**
+🧑‍💻 **Future Enhancements**:
+
 Add mobile responsiveness for smaller screens.
 Implement swipe gestures for touch devices.
 Add more customization options for users, such as color themes or content types.
@@ -103,7 +104,9 @@ This project is licensed you can Fort and use as well
 **🏫 About Me**
 
 **Saisrikar-Kokku** : I am a 2nd-year BTech student with a keen interest in data visualization and analytics. Through this project, I aim to enhance my web development skills and explore interactive design techniques that align with my passion for creating engaging user experiences.
+
 **Profile** : https://github.com/Saisrikar-Kokku
+
 **Email** : Saisrikarkokku7674@gmail.com
 
 
